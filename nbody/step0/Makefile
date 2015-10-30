@@ -1,6 +1,6 @@
 # Architektura procesoru (ACH 2015)
 # Projekt c. 1 (matvec)
-# Login: xlogin00
+# Login: xsiprj01
 
 CFLAGS=-lpapi -wd588 -ansi-alias
 OPT=-O2 -xavx

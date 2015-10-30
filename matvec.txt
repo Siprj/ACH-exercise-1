@@ -1,6 +1,6 @@
 Architektura procesorů (ACH 2015)
 Projekt č. 1 (matvec)
-Login: xlogin00
+Login: xsiprj01
 
 
 Krok 0: vypnuté optimalizace

@@ -1,7 +1,7 @@
 /*
  * Architektura procesoru (ACH 2015)
  * Projekt c. 1 (matvec)
- * Login: ihrbacek
+ * Login: xsiprj01
  */
 
 #include <cstdio>
