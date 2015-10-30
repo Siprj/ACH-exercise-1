@@ -1,0 +1,67 @@
+Architektura procesorů (ACH 2015)
+Projekt č. 1 (matvec)
+Login: xlogin00
+
+
+Krok 0: vypnuté optimalizace
+============================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Jaké instrukce kompilátor použil?
+
+
+Krok 1: zapnutí optimalizací
+============================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Kolikrát byla smyčka rozbalena?
+
+Jaké instrukce kompilátor použil?
+
+
+Krok 2: datové závislosti
+=========================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Jaké instrukce kompilátor použil?
+
+Proč je vygenerovaný kód tak dlouhý?
+
+
+Krok 3: zarovnání dat v paměti
+==============================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Na kolik bytů musí být data zarovnána?
+
+Jaké změny ve vygenerovaném kódu pozorujete:
+
+Je vektorová jednotka využita efektivně?
+
+
+Krok 4: padding
+===============
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Změnila se nějak vnitřní smyčka?
+
+Vysvětlete rozdíl ve výkonu oproti předchozímu kroku.
+
+
+Krok 5: zarovnání vektorů
+=========================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Okomentujte změny oproti předchozímu kroku.

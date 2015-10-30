@@ -1,0 +1,42 @@
+Architektura procesorů (ACH 2015)
+Projekt č. 1 (nbody)
+Login: xlogin00
+
+
+Krok 0: základní implementace
+=============================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+
+Krok 1: optimalizovaná implementace
+===================================
+Celkový čas [s]:
+Výkon skalárních operací [MFLOPS]:
+Výkon vektorových operací [MFLOPS]:
+
+Jaké optimalizace byly použity? Vysvětlete dopad jednotlivých optimalizací.
+
+
+Krok 2: analýza paměťové hierarchie
+===================================
+HW countery pro L1:
+HW countery pro L2:
+HW countery pro L3:
+
+Vyplňte následující tabulku, zvolte vhodné hodnoty počtu částic N:
+
+N       L1 miss [%]  L2 miss [%]  L3 miss [%]  výkon [MFLOPS]
+1000
+1100
+...
+
+Maximální počet částic v L1:
+Maximální počet částic v L2:
+Maximální počet částic v L3:
+
+Popište, jaký dopad na výkon mají výpadky v~cache.
+
+Jak byste tento vliv omezili?
+
